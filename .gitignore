@@ -1,0 +1,4 @@
+.DS_Store
+SublimeLinter
+Package Control*
+!Package Control.sublime-settings

@@ -1,0 +1,27 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AngularJS",
+		"Base16 Color Schemes",
+		"BracketHighlighter",
+		"cdnjs",
+		"DashDoc",
+		"Dayle Rees Color Schemes",
+		"Emmet",
+		"GitGutter",
+		"HTML5",
+		"Package Control",
+		"Predawn",
+		"SideBarEnhancements",
+		"SublimeCodeIntel",
+		"SublimeLinter",
+		"SublimeLinter-jshint",
+		"Theme - Flatland",
+		"Theme - Soda",
+		"Themr"
+	]
+}

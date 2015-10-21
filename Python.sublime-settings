@@ -1,0 +1,11 @@
+{
+    // editor options
+    "draw_white_space": "all",
+
+    // tabs and whitespace
+    "smart_indent": true,
+    "tab_size": 4,
+    "trim_automatic_white_space": true,
+    "use_tab_stops": true,
+    "wrap_width": 80
+}

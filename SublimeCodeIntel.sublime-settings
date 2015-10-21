@@ -1,0 +1,24 @@
+{
+	"codeintel_language_settings": {
+        "Python": {
+            "python": "/usr/local/bin/python",
+            "codeintel_scan_extra_dir": [
+                "/usr/local/Cellar/python/2.7.10_2/Frameworks/Python.framework/Versions/2.7/lib/python27.zip",
+				"/usr/local/Cellar/python/2.7.10_2/Frameworks/Python.framework/Versions/2.7/lib/python2.7",
+				"/usr/local/Cellar/python/2.7.10_2/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-darwin",
+				"/usr/local/Cellar/python/2.7.10_2/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac",
+				"/usr/local/Cellar/python/2.7.10_2/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac/lib-scriptpackages",
+				"/usr/local/Cellar/python/2.7.10_2/Frameworks/Python.framework/Versions/2.7/lib/python2.7/lib-tk",
+				"/usr/local/Cellar/python/2.7.10_2/Frameworks/Python.framework/Versions/2.7/lib/python2.7/lib-old",
+				"/usr/local/Cellar/python/2.7.10_2/Frameworks/Python.framework/Versions/2.7/lib/python2.7/lib-dynload",
+				"/usr/local/lib/python2.7/site-packages",
+				"/Library/Python/2.7/site-packages"
+            ],
+            "codeintel_scan_files_in_project": true,
+            "codeintel_selected_catalogs": []
+        },
+        "Ruby": {
+            "ruby": "~/.rvm/bin/rvm-auto-ruby"
+        }
+    }
+}
